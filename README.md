@@ -1,4 +1,6 @@
 # hakanboun
 Bogazici University - Industrial Engineering
 
-Addicted to Data
+IE48A- Hakan Ekiz Progress Journal Page
+
+
